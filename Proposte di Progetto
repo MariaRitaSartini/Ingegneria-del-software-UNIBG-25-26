@@ -1,0 +1,38 @@
+Idee condivise (prima bozza):
+	- App per city tour
+	- App per streaming tipo netflix
+	- App tipo goodreads
+	- Prenotazione risorse:
+		○ Es: estetista / parrucchiera
+	- Gestione di un database ospedaliero
+	- Gestione magazzino
+	- Workflow aziendale
+	- Gestione centro sportivo
+	- Sistema aziendale (clienti, fornitori, magazzino)
+	- Gestione turni/presenze
+	- Trasporti
+	- Manutenzione impianti
+
+
+Nuove proposte (da discutere):
+	- App per gestione di un magazzino
+	- App per gestione delle prenotazioni 
+		○ Es: parrucchieri ed estetisti
+	- Poste/Uffici:
+		○ Procedure che richiedono Operatore
+		○ Spedizioni
+	- Industria 3/4/5.0, caratteristiche:
+		○ Dashboard
+		○ Controllo di tutte le macchine/pc/… in uso o in programmazione
+		○ Centro di controllo di un grosso magazzino
+	- Java PayService, caratteristiche:
+		○ Gestione del ciclo di vita del pagamento per una piattaforma di servizi
+		○ (Ha senso in java dato che deve essere blindata)
+
+NB: con o senza TOUCH SCREEN?
+	- Interfaccia:
+		○ Es: totem per i ticket di prenotazione
+		○ Es: App per cellulare
+	- MOTIVO: per diminuire il carico di lavoro dell'idea principale 
+
+// Nei prossimi giorni preparerò l'argomento Java PayService
